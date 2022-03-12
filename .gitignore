@@ -1,0 +1,4 @@
+others/
+
+# Jupyter Notebook
+.ipynb_checkpoints
